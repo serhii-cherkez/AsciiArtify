@@ -21,6 +21,7 @@ Resource-efficient compared to VM-based solutions like Minikube.
 Suitable for local development environments, with growing community support.
 ### Disadvantages:
 Limited to local development environments, as it doesn't support multi-node clusters by default.
+![](demo/kind.gif)
 
 ## k3d (Kubernetes in Docker):
 ### Description: 
