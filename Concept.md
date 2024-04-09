@@ -11,7 +11,7 @@ Supports multiple hypervisors, making it versatile.
 Requires a hypervisor for VM-based setup, which can be resource-intensive.
 Limited scalability due to its single-node architecture.
 May require additional configuration for network access.
-
+![](demo/minikube.gif)
 ## KinD (Kubernetes in Docker):
 ### Description:
 KinD allows you to run a Kubernetes cluster using Docker containers as nodes. It creates lightweight, isolated Kubernetes clusters suitable for local development and testing.
