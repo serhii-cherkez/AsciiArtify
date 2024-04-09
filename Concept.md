@@ -33,6 +33,8 @@ Good for local development and testing scenarios.
 ### Disadvantages:
 Like KinD, it's limited to local development environments and doesn't support multi-node clusters out of the box.
 Overall, Minikube is suitable for users who need a full Kubernetes experience on their local machine and can afford the resource overhead of a VM. KinD and k3d are better suited for users who prioritize lightweight solutions and simplicity, especially for local development and testing purposes.
+![](demo/k3d.gif)
+
 ## Comparison table
 
 | Characteristic                         | Minikube                                                               | KinD                                         | k3d                                        |
