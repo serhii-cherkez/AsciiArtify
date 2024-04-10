@@ -1,8 +1,8 @@
-## ArgoCD GUI
-![]./demo/
+### ArgoCD GUI
+![](demo/argocd_gui.gif)
 
-## Cluster info
-![]./demo/
+### Cluster info
+![](demo/cluster.gif)
 
-## App work
-![]./demo/
+### App work
+![](demo/app.gif)
