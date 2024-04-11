@@ -6,3 +6,6 @@
 
 ### App work
 ![](demo/app.gif)
+
+### Auto Sync Policy
+![](demo/auto_sync_policy.gif)
